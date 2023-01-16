@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey, I'm Jailson! 👋
+
+- :sparkling_heart: I love programming, data science and games
+- 🌱 I’m addicted to learning and growing every day
+- ⌨️ Interested in Data Science, Mobile App Development and Game Development
+- 💬 Talk to me about data, games and animes
+
+:star: <strong>Skills:</strong> R, SQL, Python, HTML5, CSS3, JavaScript, React, Java.
+
+:computer: <strong>Tools:</strong> RStudio, Visual Studio Code, Construct 3, RPG Maker and Git.
+
 
 <!--
 **JailsonBarros/JailsonBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
